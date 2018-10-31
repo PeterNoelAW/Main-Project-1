@@ -1,0 +1,51 @@
+/* CSS Document */
+
+html 
+{ height: 100%; margin: 0; padding: 0;}
+
+/* Global */
+body { background-image: url("../../Contents/photos/IMG_0124 2.JPG");width: auto; height: auto; background-attachment: fixed;
+background-size: cover;}
+
+body {font-family: ariel, helvetica, sans-serif; line-height: 20px; font-size: 15px; padding: 10px; margin: 0; height: 100%}
+
+#home{ color: beige; position: absolute; right: 0px; top: 0px; background-color: darkgoldenrod; padding: 10px; margin-left: auto; margin-right: auto; text-transform: uppercase; text-decoration: none;background-image: linear-gradient(darkgoldenrod, beige); }
+
+#home a{text-decoration: none;}
+
+.left{ text-align: left; max-width: 130px; max-height: 300px;margin-bottom: 100px;}
+
+#nav {position: relative; border-bottom: orange 3px solid; border-top: orange 3px solid; border-left: orange 3px solid; border-right: orange 3px solid;background-color: darkgoldenrod; text-transform: uppercase; margin-left: auto; width: 200px; height: 400px; background-image: linear-gradient(darkgoldenrod, beige);}
+
+#nav li{display: block;padding: 8px 16px;margin-right: auto}
+
+#nav a{color: beige; font-size: 20px; margin-bottom: 100px; text-decoration: none; border-radius: 12px;}
+
+header a{ color: beige; }
+
+header{ color: beige; align-content: center; margin-top: 70px; min-height: 70px; border-top: orange 3px solid; border-bottom: orange 3px solid; background-image: linear-gradient(darkgoldenrod, beige); }
+
+.container{ text-align: center; margin-left: auto; margin-right: auto; width 30px; font-size: 20px;}
+
+.box {display: block; }
+
+nav ul{list-style: none; }
+nav li{display: inline-block;}
+
+p {border-bottom-color: orange 20px; border-top: orange 30px;}
+
+footer { color: darkgreen; background-image: linear-gradient(darkgoldenrod, beige); height: 40px; width: 100%; margin-top: 200px; }
+
+#footer {position: relative; right: 0px; left 0px; bottom: 0px; padding: 2px; margin-top: 100px; max-height: 100px; }
+
+
+.article {color: black; text-align: center; position: relative; margin: auto; width: 80%;  }
+
+#blog {display: inline-block;}
+
+
+
+
+    
+    
+   
